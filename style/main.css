@@ -1,0 +1,163 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #f5f7fa;
+}
+
+.main {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.main-content {
+  flex-grow: 2;
+  position: relative;
+  background-color: #fff;
+  padding-left: 80px;
+  padding-top: 100px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.text-about {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.title-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.qr-code {
+display: block;  
+position: absolute;
+top: 70px;
+right: 70px;
+width: 200px;
+height: 200px;      
+}
+
+.about-list {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.organization {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #0e0d0d;
+}
+
+.text-object {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 400px;
+  margin-bottom: 40px;
+}
+
+.list-main {
+  padding: 0;
+  margin-left: 17px;
+}
+
+.data {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #A8A8A8;
+}
+
+.profession {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.sidebar {  
+  background: #d8dadf;
+  padding-top: 40px;
+  width: 370px;
+}
+
+.photo {
+  width: 370px;
+  margin-bottom: 50px;
+}
+
+.contacts,
+.lang,
+.soft-skills,
+.tech-skills {
+  margin-left: 40px;
+}
+
+.contacts,
+.soft-skills {
+  margin-bottom: 40px;
+}
+
+.sidebar-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #241d1d;
+}
+
+.contact-type {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #493838;
+}
+
+.contact-link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #211b1b;
+  margin-left: 10px;
+}
+
+.skills-list {
+  color: #251b1b;
+  padding: 0;
+  margin-left: 15px;
+}
+
+.item-skills {
+  color: #FB6D3A;
+}
+
+.text-skills {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #201919;
+}
